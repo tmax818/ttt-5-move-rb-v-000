@@ -2,4 +2,4 @@
 
 - Lab
 
-- What is the #eval method in the tests?
+- What is the [#eval](https://apidock.com/ruby/Kernel/eval) method in the tests?
